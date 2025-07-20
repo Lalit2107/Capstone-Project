@@ -16,6 +16,7 @@ This project leverages a Convolutional Neural Network (CNN) trained on chest X-r
   - **Pneumonia**
   - **Pneumothorax**
   - **Normal**
+  - **COVID-19**
 - 🧠 Built using a custom CNN model
 - 🔧 Preprocessing pipeline includes:
   - Histogram Equalization
